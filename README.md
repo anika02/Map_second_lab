@@ -1,6 +1,8 @@
 # Map_second_lab
 
-Map_second_lab is a Python module for creating a multi-layer map: 1- the closest movie spots (max 10), 2- the world's population map
+Map_second_lab is a Python module for creating a multi-layer map:\
+1 - the closest movie spots (max 10)\
+2 - the world's population map
 
 ## Usage
 
@@ -31,11 +33,13 @@ Also, by clicking on the icon, we will see what movie was made there
 
 ## Example
 
-Введіть рік:2000
-Введіть широту:48.287312
-Введіть довготу:25.1738
-Введіть шлях до файлу з фільмами(якщо це інший файл: він має мати таку ж конструкцію як і даний файл):C:\sec_semester\locations.list
-Введіть шлях до файлу з населенням(якщо це інший файл: він має мати таку ж конструкцію як і даний файл):C:\sec_semester\lab2\world.json
-Map is generating...
-Please wait...
-Finished. Please have look at the map Map_1.html
+> Введіть рік: `2000`\
+> Введіть широту: `48.287312`\
+> Введіть довготу: `25.1738`\
+> Введіть шлях до файлу з фільмами (якщо це інший файл, він має мати таку ж конструкцію як і даний файл): `C:\sec_semester\locations.list`\
+> Введіть шлях до файлу з населенням (якщо це інший файл, він має мати таку ж конструкцію як і даний файл): `C:\sec_semester\lab2\world.json`\
+> Map is generating...\
+> Please wait...\
+> Finished. Please have look at the map **Map_1.html**
+
+<img src="screenshot.jpg" />
